@@ -5,8 +5,6 @@ import pandas as pd
 from scipy.stats import mode 
  
 
-
-
 # code starts here
 
 bank = pd.read_csv(path)
